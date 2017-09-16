@@ -8,7 +8,7 @@ except ImportError:
     from distutils.core import setup
 
 setup(
-    name="python-daemon",
+    name="littledaemon",
     version=__version__,
     author="Server Density",
     license="http://creativecommons.org/licenses/by-sa/3.0/",
